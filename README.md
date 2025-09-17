@@ -3,7 +3,7 @@
 The purpose of this project is to show my abilities to design an optimized data architecture transforming 16K+ netflix titles and shows into a structured analytics ready db thru ER Diagram and ETL process while maintaining a query performance and business context.
 I approached this not as a coding task, but as a systems design challenge: How to structure Netflix's global content data for maximum insight generation while ensuring scalability and maintainability.
 
-### Start
+### Abstract
 
 I took a flat CSV file from Kaggle and decided to transform it to a relational database, this helped me discover the entities and relationships between them that arn't obvious in a flat file, the ERD made the data sensible for a human rather than looking at a flat file, it is also a first step towards a normalized dataset.
 
