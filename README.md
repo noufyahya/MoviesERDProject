@@ -67,3 +67,5 @@ In the other file I made a list of unique items by using the set function, which
 ### Lessons learnt
 
 This project helped me understand the specifications of SQLite, it instilled in me the fact that each SQL flavor is different than the others, it also improved my attention to the data type precision in schema design.
+
+### Auther: Nouf Yahya Saeed
